@@ -19,11 +19,11 @@
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/CyberDemon404/SUPER-CRACK".svg"/> <a                                                                                                        href="https://github.com/CyberDemon404/SUPER-CRACK"">
     <img alt="Forks" src="https://img.shields.io/github/forks/CyberDemon404/SUPER-CRACK".svg"/>
   </a>
-<h2 align="center">CYBER-DEMON-4ðŸ‘¹4 </h2>
+<h2 align="center">CYBER-DEMON-404</h2>
 
 <h3 align="center">LOGIN WITH ADMIN APPROVAL </h3>
 
-<h4 align="center">NEW FACEBOOK CRACKING TOOLðŸ”¥ðŸ”¥  (PAID) </h4>
+<h4 align="center">NEW FACEBOOK CRACKING TOOL(PAID) </h4>
 
 ## <b>Installation</b>
 
