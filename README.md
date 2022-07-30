@@ -65,7 +65,7 @@ $ pip install rich
 $ pip install future 
 $ pkg install git
 $ git clone https://github.com/CyberDemon404/SUPER-CRACK
-$ cd Super-Crack
+$ cd SUPER-CRACK
 $ git pull
 $ python start.py
 
