@@ -25,12 +25,35 @@
 
 <h4 align="center">NEW FACEBOOK CRACKING TOOL(PAID) </h4>
 
+<h3 align="center">TOOL FEATURES  </h3>
+
+![20200808_160757](https://github.com/CyberDemon404/SUPER-CRACK/blob/main/img/Screenshot_20220729-212449.png)
+- [] Crack from search name v1
+- [] Crack from search name v2 
+- [] Crack from search name v3
+- [] Crack from random email  
+- [] Crack from public friends 
+- [] Crack from multi target
+- [] Crack from followers      
+- [] Crack from all reactions 
+- [] Crack from group members  
+- [] Crack from post coments v1            
+- [] Crack from post coments v2          
+- [] Crack from messengers              
+- [] Crack from requests page        
+- [] Crack friends from friends  
+- [] Crack friends from search             
+- [] Crack from multi files      
+- [x] File Making(in progress)
+
+
+
 ## <b>Installation</b>
 
 ```
 
-cd
-rm -rf X-Power-Pro
+$ cd$home
+$ rm -rf SUPER-CRACK
 $ pkg update
 $ pkg upgrade
 $ pkg install python
@@ -39,10 +62,11 @@ $ pip install requests
 $ pip install mechanize
 $ pip install stdiomask
 $ pip install rich
-$pip install future 
+$ pip install future 
 $ pkg install git
 $ git clone https://github.com/CyberDemon404/SUPER-CRACK
 $ cd Super-Crack
+$ git pull
 $ python start.py
 
 Note: (This Tools Paid, So You Need Permission To Use Super Crack Tools )
