@@ -28,22 +28,22 @@
 <h3 align="center">TOOL FEATURES  </h3>
 
 ![20200808_160757](https://github.com/CyberDemon404/SUPER-CRACK/blob/main/img/Screenshot_20220729-212449.png)
-- [] Crack from search name v1
-- [] Crack from search name v2 
-- [] Crack from search name v3
-- [] Crack from random email  
-- [] Crack from public friends 
-- [] Crack from multi target
-- [] Crack from followers      
-- [] Crack from all reactions 
-- [] Crack from group members  
-- [] Crack from post coments v1            
-- [] Crack from post coments v2          
-- [] Crack from messengers              
-- [] Crack from requests page        
-- [] Crack friends from friends  
-- [] Crack friends from search             
-- [] Crack from multi files      
+- [x] Crack from search name v1
+- [x] Crack from search name v2 
+- [x] Crack from search name v3
+- [x] Crack from random email  
+- [x] Crack from public friends 
+- [x] Crack from multi target
+- [x] Crack from followers      
+- [x] Crack from all reactions 
+- [x] Crack from group members  
+- [x] Crack from post coments v1            
+- [x] Crack from post coments v2          
+- [x] Crack from messengers              
+- [x] Crack from requests page        
+- [x] Crack friends from friends  
+- [x] Crack friends from search             
+- [x] Crack from multi files      
 - [x] File Making(in progress)
 
 
